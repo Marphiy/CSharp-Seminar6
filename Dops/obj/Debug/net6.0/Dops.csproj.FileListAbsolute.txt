@@ -1,0 +1,15 @@
+/Users/mac/Desktop/CSharp Seminar5/Dops/bin/Debug/net6.0/Dops
+/Users/mac/Desktop/CSharp Seminar5/Dops/bin/Debug/net6.0/Dops.deps.json
+/Users/mac/Desktop/CSharp Seminar5/Dops/bin/Debug/net6.0/Dops.runtimeconfig.json
+/Users/mac/Desktop/CSharp Seminar5/Dops/bin/Debug/net6.0/Dops.dll
+/Users/mac/Desktop/CSharp Seminar5/Dops/bin/Debug/net6.0/Dops.pdb
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.csproj.AssemblyReference.cache
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.AssemblyInfoInputs.cache
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.AssemblyInfo.cs
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.dll
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/refint/Dops.dll
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.pdb
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/Dops.genruntimeconfig.cache
+/Users/mac/Desktop/CSharp Seminar5/Dops/obj/Debug/net6.0/ref/Dops.dll
